@@ -637,5 +637,30 @@ svg.leaflet-zoom-animated{will-change:transform}
   }
 
 </script>
+
+<script>
+(function(){
+  try {
+    var sub = document.querySelector('.subtitle');
+    if(!sub) return;
+    var txt = sub.textContent || '';
+    var m = txt.match(/As of\s+([^\u00b7\u00c2]+)/i);
+    if(!m) return;
+    var dateStr = m[1].trim();
+    var reportDate = new Date(dateStr);
+    if (isNaN(reportDate.getTime())) return;
+    var fmt = new Intl.DateTimeFormat('en-US', {timeZone:'America/Los_Angeles', year:'numeric', month:'2-digit', day:'2-digit'});
+    var todayPT = fmt.format(new Date());
+    var reportPT = fmt.format(reportDate);
+    var fresh = (todayPT === reportPT);
+    var dot = document.createElement('div');
+    dot.title = fresh
+      ? ('Report date matches today (Pacific): ' + reportPT)
+      : ('Report date (' + reportPT + ') does not match today (Pacific: ' + todayPT + ')');
+    dot.style.cssText = 'position:fixed;top:14px;right:16px;width:14px;height:14px;border-radius:50%;z-index:99999;box-shadow:0 0 0 2px #fff,0 1px 3px rgba(0,0,0,.35);cursor:help;background:' + (fresh ? '#2e9e4f' : '#d9342b') + ';';
+    document.body.appendChild(dot);
+  } catch(e) {}
+})();
+</script>
 </body>
 </html>
