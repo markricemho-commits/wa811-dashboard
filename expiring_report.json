@@ -1,0 +1,56 @@
+{
+  "meta": {
+    "generated": "October 24, 2026",
+    "window": "October 24, 2026 \u2013 November 3, 2026",
+    "doc_date": "10-24-2026",
+    "days": 10
+  },
+  "report": {
+    "G&J FIBER GROUP LLC": [
+      {
+        "date": "Friday, October 30, 2026",
+        "tickets": [
+          {
+            "ticket": "26430959",
+            "company": "G&J FIBER GROUP LLC",
+            "loc": "1006 261ST PL",
+            "city": "DES MOINES",
+            "county": "KING",
+            "exp": "10/30/26 11:45 am",
+            "issue": "09/15/26 11:43 am",
+            "opens": []
+          },
+          {
+            "ticket": "26430975",
+            "company": "G&J FIBER GROUP LLC",
+            "loc": "1035 RIDGEWOOD CIR SW",
+            "city": "ISSAQUAH",
+            "county": "KING",
+            "exp": "10/30/26 12:00 pm",
+            "issue": "09/15/26 11:46 am",
+            "opens": []
+          }
+        ]
+      },
+      {
+        "date": "Saturday, October 31, 2026",
+        "tickets": [
+          {
+            "ticket": "26432696",
+            "company": "G&J FIBER GROUP LLC",
+            "loc": "3807 HAMPTON WAY",
+            "city": "KENT",
+            "county": "KING",
+            "exp": "10/31/26 08:15 am",
+            "issue": "09/16/26 08:08 am",
+            "opens": [
+              "PUGE03 (Not Marked, Access Denied)",
+              "PUGG03 (Not Marked, Access Denied)"
+            ]
+          }
+        ]
+      }
+    ],
+    "STRATEGYHOUS": []
+  }
+}
