@@ -1,0 +1,196 @@
+{
+  "meta": {
+    "generated": "October 31, 2026",
+    "window": "October 31, 2026 \u2013 November 10, 2026",
+    "doc_date": "10-31-2026",
+    "days": 10
+  },
+  "report": {
+    "G&J FIBER GROUP LLC": [
+      {
+        "date": "Saturday, October 31, 2026",
+        "tickets": [
+          {
+            "ticket": "26432696",
+            "company": "G&J FIBER GROUP LLC",
+            "loc": "3807 HAMPTON WAY",
+            "city": "KENT",
+            "county": "KING",
+            "exp": "10/31/26 08:15 am",
+            "issue": "09/16/26 08:08 am",
+            "opens": [
+              "PUGE03 (Not Marked, Access Denied)",
+              "PUGG03 (Not Marked, Access Denied)"
+            ]
+          }
+        ]
+      },
+      {
+        "date": "Friday, November 6, 2026",
+        "tickets": [
+          {
+            "ticket": "26442655",
+            "company": "G&J FIBER GROUP LLC",
+            "loc": "3605 CANTERBURY LN",
+            "city": "KENT",
+            "county": "KING",
+            "exp": "11/06/26 10:15 am",
+            "issue": "09/22/26 10:03 am",
+            "opens": []
+          }
+        ]
+      },
+      {
+        "date": "Sunday, November 8, 2026",
+        "tickets": [
+          {
+            "ticket": "26448897",
+            "company": "G&J FIBER GROUP LLC",
+            "loc": "27130 41ST PL S",
+            "city": "LAKELAND NORTH",
+            "county": "KING",
+            "exp": "11/08/26 04:15 pm",
+            "issue": "09/24/26 04:07 pm",
+            "opens": []
+          },
+          {
+            "ticket": "26448934",
+            "company": "G&J FIBER GROUP LLC",
+            "loc": "27223 43RD CT S",
+            "city": "LAKELAND NORTH",
+            "county": "KING",
+            "exp": "11/08/26 04:30 pm",
+            "issue": "09/24/26 04:17 pm",
+            "opens": [
+              "PUGE03 (Not Marked, Access Denied)",
+              "PUGG03 (Not Marked, Access Denied)",
+              "PUGT03 (Not Marked, Access Denied)",
+              "QLNWA16 (Not yet responded)"
+            ]
+          },
+          {
+            "ticket": "26448950",
+            "company": "G&J FIBER GROUP LLC",
+            "loc": "4417 272ND ST",
+            "city": "LAKELAND NORTH",
+            "county": "KING",
+            "exp": "11/08/26 04:30 pm",
+            "issue": "09/24/26 04:25 pm",
+            "opens": [
+              "PUGE03 (Not Marked, Access Denied)",
+              "PUGG03 (Not Marked, Access Denied)"
+            ]
+          },
+          {
+            "ticket": "26448957",
+            "company": "G&J FIBER GROUP LLC",
+            "loc": "4617 272ND ST",
+            "city": "LAKELAND NORTH",
+            "county": "KING",
+            "exp": "11/08/26 04:45 pm",
+            "issue": "09/24/26 04:30 pm",
+            "opens": [
+              "PUGE03 (Not Marked, Access Denied)",
+              "PUGG03 (Not Marked, Access Denied)"
+            ]
+          },
+          {
+            "ticket": "26448968",
+            "company": "G&J FIBER GROUP LLC",
+            "loc": "4705 272ND ST",
+            "city": "LAKELAND NORTH",
+            "county": "KING",
+            "exp": "11/08/26 04:45 pm",
+            "issue": "09/24/26 04:38 pm",
+            "opens": [
+              "PUGE03 (Not Marked, Access Denied)",
+              "PUGG03 (Not Marked, Access Denied)"
+            ]
+          },
+          {
+            "ticket": "26448977",
+            "company": "G&J FIBER GROUP LLC",
+            "loc": "42ND AVE S",
+            "city": "LAKELAND NORTH",
+            "county": "KING",
+            "exp": "11/08/26 05:00 pm",
+            "issue": "09/24/26 04:46 pm",
+            "opens": [
+              "QLNWA16 (Not yet responded)"
+            ]
+          },
+          {
+            "ticket": "26448987",
+            "company": "G&J FIBER GROUP LLC",
+            "loc": "27407 42ND AVE S",
+            "city": "LAKELAND NORTH",
+            "county": "KING",
+            "exp": "11/08/26 05:00 pm",
+            "issue": "09/24/26 04:53 pm",
+            "opens": [
+              "QLNWA16 (Not yet responded)"
+            ]
+          },
+          {
+            "ticket": "26449009",
+            "company": "G&J FIBER GROUP LLC",
+            "loc": "27611 42ND AVE S",
+            "city": "LAKELAND NORTH",
+            "county": "KING",
+            "exp": "11/08/26 05:15 pm",
+            "issue": "09/24/26 05:07 pm",
+            "opens": []
+          },
+          {
+            "ticket": "26449037",
+            "company": "G&J FIBER GROUP LLC",
+            "loc": "27606 43RD PL S",
+            "city": "LAKELAND NORTH",
+            "county": "KING",
+            "exp": "11/08/26 05:30 pm",
+            "issue": "09/24/26 05:16 pm",
+            "opens": []
+          },
+          {
+            "ticket": "26449039",
+            "company": "G&J FIBER GROUP LLC",
+            "loc": "4303 273RD PL",
+            "city": "LAKELAND NORTH",
+            "county": "KING",
+            "exp": "11/08/26 05:30 pm",
+            "issue": "09/24/26 05:19 pm",
+            "opens": [
+              "PUGE03 (Not Marked, Access Denied)",
+              "PUGG03 (Not Marked, Access Denied)"
+            ]
+          },
+          {
+            "ticket": "26449046",
+            "company": "G&J FIBER GROUP LLC",
+            "loc": "4225 273RD PL",
+            "city": "LAKELAND NORTH",
+            "county": "KING",
+            "exp": "11/08/26 05:30 pm",
+            "issue": "09/24/26 05:23 pm",
+            "opens": [
+              "PUGE03 (Not Marked, Access Denied)",
+              "PUGG03 (Not Marked, Access Denied)",
+              "PUGT03 (Not Marked, Access Denied)"
+            ]
+          },
+          {
+            "ticket": "26449049",
+            "company": "G&J FIBER GROUP LLC",
+            "loc": "4241 273RD PL",
+            "city": "LAKELAND NORTH",
+            "county": "KING",
+            "exp": "11/08/26 05:30 pm",
+            "issue": "09/24/26 05:25 pm",
+            "opens": []
+          }
+        ]
+      }
+    ],
+    "STRATEGYHOUS": []
+  }
+}

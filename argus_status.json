@@ -1,0 +1,58 @@
+{
+  "system": "Argus 3.0",
+  "run_at": "2026-10-31T08:35:26-07:00",
+  "run_url": "https://github.com/markricemho-commits/Argus-3.0/actions/runs/41215110565",
+  "overall": "OK",
+  "wa": {
+    "status": "OK",
+    "pull": "success",
+    "build": "success",
+    "check": "success",
+    "tickets": 90,
+    "companies": {
+      "G&J FIBER GROUP LLC": 46,
+      "MEDINA UNDERGROUND INC": 0,
+      "JR DRILLING SERVICES LLC": 0,
+      "STRATEGYHOUS": 44
+    },
+    "size_mb": 63.94,
+    "problems": [],
+    "notes": [
+      "90 tickets, 2 companies, 3 city tabs, 4465 tiles",
+      "MEDINA UNDERGROUND INC: 0 tickets in the 45-day window",
+      "JR DRILLING SERVICES LLC: 0 tickets in the 45-day window"
+    ]
+  },
+  "tx": {
+    "status": "OK",
+    "pull": "success",
+    "build": "success",
+    "check": "success",
+    "tickets": 666,
+    "companies": {
+      "G-REED LLC": 97,
+      "LV ELECTRIC AND PLUMBING": 51,
+      "G&J FIBER GROUP": 209,
+      "CABLE JIMENEZ": 78,
+      "SDC UTILITIES LLC": 69,
+      "FIBERNET COMMUNICATIONS LLC": 61,
+      "UNDERGROUND UTILITY CONSTRUCTION LLC": 25,
+      "MEDINA UNDERGROUND INC": 23,
+      "NORTHGATE INDUSTRIES": 53
+    },
+    "size_mb": 22.04,
+    "problems": [],
+    "notes": [
+      "666 tickets, 1566 tiles"
+    ]
+  },
+  "problems": [],
+  "wa811": {
+    "status": "ok",
+    "detail": "90 tickets pulled, dashboard built and checked by Argus 3.0"
+  },
+  "tx811": {
+    "status": "ok",
+    "detail": "666 tickets pulled, dashboard built and checked by Argus 3.0"
+  }
+}
