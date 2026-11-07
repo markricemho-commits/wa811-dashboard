@@ -1,0 +1,540 @@
+{
+ "meta": {
+  "generated": "November 7, 2026",
+  "window": "November 7, 2026 – November 17, 2026",
+  "doc_date": "11-07-2026",
+  "days": 10,
+  "work_complete_hidden": 1
+ },
+ "report": {
+  "G&J FIBER GROUP LLC": [
+   {
+    "date": "Sunday, November 8, 2026",
+    "tickets": [
+     {
+      "ticket": "26448897",
+      "company": "G&J FIBER GROUP LLC",
+      "loc": "27130 41ST PL S",
+      "city": "LAKELAND NORTH",
+      "county": "KING",
+      "exp": "11/08/26 04:15 pm",
+      "issue": "09/24/26 04:07 pm",
+      "opens": []
+     },
+     {
+      "ticket": "26448934",
+      "company": "G&J FIBER GROUP LLC",
+      "loc": "27223 43RD CT S",
+      "city": "LAKELAND NORTH",
+      "county": "KING",
+      "exp": "11/08/26 04:30 pm",
+      "issue": "09/24/26 04:17 pm",
+      "opens": [
+       "PUGE03 (Not Marked, Access Denied)",
+       "PUGG03 (Not Marked, Access Denied)",
+       "PUGT03 (Not Marked, Access Denied)"
+      ]
+     },
+     {
+      "ticket": "26448950",
+      "company": "G&J FIBER GROUP LLC",
+      "loc": "4417 272ND ST",
+      "city": "LAKELAND NORTH",
+      "county": "KING",
+      "exp": "11/08/26 04:30 pm",
+      "issue": "09/24/26 04:25 pm",
+      "opens": [
+       "PUGE03 (Not Marked, Access Denied)",
+       "PUGG03 (Not Marked, Access Denied)"
+      ]
+     },
+     {
+      "ticket": "26448957",
+      "company": "G&J FIBER GROUP LLC",
+      "loc": "4617 272ND ST",
+      "city": "LAKELAND NORTH",
+      "county": "KING",
+      "exp": "11/08/26 04:45 pm",
+      "issue": "09/24/26 04:30 pm",
+      "opens": [
+       "PUGE03 (Not Marked, Access Denied)",
+       "PUGG03 (Not Marked, Access Denied)"
+      ]
+     },
+     {
+      "ticket": "26448968",
+      "company": "G&J FIBER GROUP LLC",
+      "loc": "4705 272ND ST",
+      "city": "LAKELAND NORTH",
+      "county": "KING",
+      "exp": "11/08/26 04:45 pm",
+      "issue": "09/24/26 04:38 pm",
+      "opens": [
+       "PUGE03 (Not Marked, Access Denied)",
+       "PUGG03 (Not Marked, Access Denied)"
+      ]
+     },
+     {
+      "ticket": "26448977",
+      "company": "G&J FIBER GROUP LLC",
+      "loc": "42ND AVE S",
+      "city": "LAKELAND NORTH",
+      "county": "KING",
+      "exp": "11/08/26 05:00 pm",
+      "issue": "09/24/26 04:46 pm",
+      "opens": []
+     },
+     {
+      "ticket": "26448987",
+      "company": "G&J FIBER GROUP LLC",
+      "loc": "27407 42ND AVE S",
+      "city": "LAKELAND NORTH",
+      "county": "KING",
+      "exp": "11/08/26 05:00 pm",
+      "issue": "09/24/26 04:53 pm",
+      "opens": []
+     },
+     {
+      "ticket": "26449009",
+      "company": "G&J FIBER GROUP LLC",
+      "loc": "27611 42ND AVE S",
+      "city": "LAKELAND NORTH",
+      "county": "KING",
+      "exp": "11/08/26 05:15 pm",
+      "issue": "09/24/26 05:07 pm",
+      "opens": []
+     },
+     {
+      "ticket": "26449037",
+      "company": "G&J FIBER GROUP LLC",
+      "loc": "27606 43RD PL S",
+      "city": "LAKELAND NORTH",
+      "county": "KING",
+      "exp": "11/08/26 05:30 pm",
+      "issue": "09/24/26 05:16 pm",
+      "opens": []
+     },
+     {
+      "ticket": "26449039",
+      "company": "G&J FIBER GROUP LLC",
+      "loc": "4303 273RD PL",
+      "city": "LAKELAND NORTH",
+      "county": "KING",
+      "exp": "11/08/26 05:30 pm",
+      "issue": "09/24/26 05:19 pm",
+      "opens": [
+       "PUGE03 (Not Marked, Access Denied)",
+       "PUGG03 (Not Marked, Access Denied)"
+      ]
+     },
+     {
+      "ticket": "26449046",
+      "company": "G&J FIBER GROUP LLC",
+      "loc": "4225 273RD PL",
+      "city": "LAKELAND NORTH",
+      "county": "KING",
+      "exp": "11/08/26 05:30 pm",
+      "issue": "09/24/26 05:23 pm",
+      "opens": [
+       "PUGE03 (Not Marked, Access Denied)",
+       "PUGG03 (Not Marked, Access Denied)",
+       "PUGT03 (Not Marked, Access Denied)"
+      ]
+     },
+     {
+      "ticket": "26449049",
+      "company": "G&J FIBER GROUP LLC",
+      "loc": "4241 273RD PL",
+      "city": "LAKELAND NORTH",
+      "county": "KING",
+      "exp": "11/08/26 05:30 pm",
+      "issue": "09/24/26 05:25 pm",
+      "opens": []
+     }
+    ]
+   },
+   {
+    "date": "Friday, November 13, 2026",
+    "tickets": [
+     {
+      "ticket": "26455242",
+      "company": "G&J FIBER GROUP LLC",
+      "loc": "42ND AVE S",
+      "city": "KENT",
+      "county": "KING",
+      "exp": "11/13/26 01:30 pm",
+      "issue": "09/29/26 01:17 pm",
+      "opens": []
+     },
+     {
+      "ticket": "26455293",
+      "company": "G&J FIBER GROUP LLC",
+      "loc": "4516 SOMERSET CT",
+      "city": "KENT",
+      "county": "KING",
+      "exp": "11/13/26 01:30 pm",
+      "issue": "09/29/26 01:29 pm",
+      "opens": []
+     },
+     {
+      "ticket": "26455326",
+      "company": "G&J FIBER GROUP LLC",
+      "loc": "26610 CARNABY WAY",
+      "city": "KENT",
+      "county": "KING",
+      "exp": "11/13/26 01:45 pm",
+      "issue": "09/29/26 01:33 pm",
+      "opens": [
+       "PUGE03 (Not Marked, Access Denied)",
+       "PUGG03 (Not Marked, Access Denied)"
+      ]
+     },
+     {
+      "ticket": "26455346",
+      "company": "G&J FIBER GROUP LLC",
+      "loc": "26720 BRISTOL CT",
+      "city": "KENT",
+      "county": "KING",
+      "exp": "11/13/26 01:45 pm",
+      "issue": "09/29/26 01:40 pm",
+      "opens": [
+       "PUGE03 (Not Marked, Access Denied)",
+       "PUGG03 (Not Marked, Access Denied)"
+      ]
+     },
+     {
+      "ticket": "26455357",
+      "company": "G&J FIBER GROUP LLC",
+      "loc": "26626 CARNABY WAY",
+      "city": "KENT",
+      "county": "KING",
+      "exp": "11/13/26 01:45 pm",
+      "issue": "09/29/26 01:42 pm",
+      "opens": []
+     },
+     {
+      "ticket": "26455363",
+      "company": "G&J FIBER GROUP LLC",
+      "loc": "26625 DOVER CT",
+      "city": "KENT",
+      "county": "KING",
+      "exp": "11/13/26 02:00 pm",
+      "issue": "09/29/26 01:45 pm",
+      "opens": []
+     },
+     {
+      "ticket": "26455373",
+      "company": "G&J FIBER GROUP LLC",
+      "loc": "26625 DOVER CT",
+      "city": "KENT",
+      "county": "KING",
+      "exp": "11/13/26 02:00 pm",
+      "issue": "09/29/26 02:44 pm",
+      "opens": [
+       "CCWAU01 (Not yet responded)",
+       "KENT01 (Not yet responded)",
+       "PUGE03 (Not yet responded)",
+       "PUGG03 (Not yet responded)",
+       "QLNWA16 (Not yet responded)"
+      ]
+     },
+     {
+      "ticket": "26455521",
+      "company": "G&J FIBER GROUP LLC",
+      "loc": "26720 CARNABY WAY",
+      "city": "KENT",
+      "county": "KING",
+      "exp": "11/13/26 02:30 pm",
+      "issue": "09/29/26 02:23 pm",
+      "opens": []
+     },
+     {
+      "ticket": "26455563",
+      "company": "G&J FIBER GROUP LLC",
+      "loc": "26625 DOVER CT",
+      "city": "KENT",
+      "county": "KING",
+      "exp": "11/13/26 02:45 pm",
+      "issue": "09/29/26 02:36 pm",
+      "opens": []
+     },
+     {
+      "ticket": "26455578",
+      "company": "G&J FIBER GROUP LLC",
+      "loc": "26806 CARNABY WAY",
+      "city": "KENT",
+      "county": "KING",
+      "exp": "11/13/26 02:45 pm",
+      "issue": "09/29/26 02:41 pm",
+      "opens": []
+     },
+     {
+      "ticket": "26455609",
+      "company": "G&J FIBER GROUP LLC",
+      "loc": "26814 ARDEN CT",
+      "city": "KENT",
+      "county": "KING",
+      "exp": "11/13/26 03:00 pm",
+      "issue": "09/29/26 02:48 pm",
+      "opens": []
+     },
+     {
+      "ticket": "26455624",
+      "company": "G&J FIBER GROUP LLC",
+      "loc": "26827 CARNABY WAY",
+      "city": "KENT",
+      "county": "KING",
+      "exp": "11/13/26 03:00 pm",
+      "issue": "09/29/26 02:52 pm",
+      "opens": [
+       "KENT01 (Not yet responded)"
+      ]
+     }
+    ]
+   }
+  ],
+  "STRATEGYHOUS": [
+   {
+    "date": "Thursday, November 12, 2026",
+    "tickets": [
+     {
+      "ticket": "26453377",
+      "company": "STRATEGYHOUS",
+      "loc": "27318 10TH PL S",
+      "city": "DES MOINES",
+      "county": "KING",
+      "exp": "11/12/26 04:15 pm",
+      "issue": "09/28/26 04:10 pm",
+      "opens": []
+     },
+     {
+      "ticket": "26453813",
+      "company": "STRATEGYHOUS",
+      "loc": "27318 10TH PL S",
+      "city": "DES MOINES",
+      "county": "KING",
+      "exp": "11/12/26 11:15 pm",
+      "issue": "09/28/26 11:04 pm",
+      "opens": []
+     },
+     {
+      "ticket": "26453815",
+      "company": "STRATEGYHOUS",
+      "loc": "27433 8TH AVE S",
+      "city": "DES MOINES",
+      "county": "KING",
+      "exp": "11/12/26 11:15 pm",
+      "issue": "09/28/26 11:12 pm",
+      "opens": [
+       "PUGE03 (Not Marked, Access Denied)",
+       "PUGG03 (Not Marked, Access Denied)"
+      ]
+     },
+     {
+      "ticket": "26453816",
+      "company": "STRATEGYHOUS",
+      "loc": "27615 10TH AVE S",
+      "city": "DES MOINES",
+      "county": "KING",
+      "exp": "11/12/26 11:30 pm",
+      "issue": "09/28/26 11:18 pm",
+      "opens": [
+       "PUGE03 (Not Marked, Access Denied)",
+       "PUGG03 (Not Marked, Access Denied)"
+      ]
+     },
+     {
+      "ticket": "26453817",
+      "company": "STRATEGYHOUS",
+      "loc": "27833 10TH AVE S",
+      "city": "DES MOINES",
+      "county": "KING",
+      "exp": "11/12/26 11:30 pm",
+      "issue": "09/28/26 11:22 pm",
+      "opens": []
+     }
+    ]
+   },
+   {
+    "date": "Friday, November 13, 2026",
+    "tickets": [
+     {
+      "ticket": "26456346",
+      "company": "STRATEGYHOUS",
+      "loc": "28116 9TH AVE S",
+      "city": "DES MOINES",
+      "county": "KING",
+      "exp": "11/13/26 11:15 pm",
+      "issue": "09/29/26 11:07 pm",
+      "opens": []
+     },
+     {
+      "ticket": "26456347",
+      "company": "STRATEGYHOUS",
+      "loc": "27828 10TH AVE S",
+      "city": "DES MOINES",
+      "county": "KING",
+      "exp": "11/13/26 11:15 pm",
+      "issue": "09/29/26 11:07 pm",
+      "opens": []
+     },
+     {
+      "ticket": "26456348",
+      "company": "STRATEGYHOUS",
+      "loc": "27465 10TH AVE S",
+      "city": "DES MOINES",
+      "county": "KING",
+      "exp": "11/13/26 11:15 pm",
+      "issue": "09/29/26 11:10 pm",
+      "opens": []
+     },
+     {
+      "ticket": "26456350",
+      "company": "STRATEGYHOUS",
+      "loc": "27425 8TH AVE S",
+      "city": "DES MOINES",
+      "county": "KING",
+      "exp": "11/13/26 11:15 pm",
+      "issue": "09/29/26 11:11 pm",
+      "opens": [
+       "PUGE03 (Not Marked, Access Denied)",
+       "PUGG03 (Not Marked, Access Denied)"
+      ]
+     },
+     {
+      "ticket": "26456351",
+      "company": "STRATEGYHOUS",
+      "loc": "27318 10TH PL S",
+      "city": "DES MOINES",
+      "county": "KING",
+      "exp": "11/13/26 11:15 pm",
+      "issue": "09/29/26 11:12 pm",
+      "opens": []
+     },
+     {
+      "ticket": "26456352",
+      "company": "STRATEGYHOUS",
+      "loc": "27318 10TH PL S",
+      "city": "DES MOINES",
+      "county": "KING",
+      "exp": "11/13/26 11:15 pm",
+      "issue": "09/29/26 11:13 pm",
+      "opens": []
+     }
+    ]
+   },
+   {
+    "date": "Saturday, November 14, 2026",
+    "tickets": [
+     {
+      "ticket": "26458818",
+      "company": "STRATEGYHOUS",
+      "loc": "920 280TH ST",
+      "city": "DES MOINES",
+      "county": "KING",
+      "exp": "11/14/26 11:30 pm",
+      "issue": "09/30/26 11:21 pm",
+      "opens": [
+       "LKHAVN01 (Not yet responded)"
+      ]
+     },
+     {
+      "ticket": "26458819",
+      "company": "STRATEGYHOUS",
+      "loc": "27625 10TH AVE S",
+      "city": "DES MOINES",
+      "county": "KING",
+      "exp": "11/14/26 11:30 pm",
+      "issue": "09/30/26 11:22 pm",
+      "opens": []
+     },
+     {
+      "ticket": "26458839",
+      "company": "STRATEGYHOUS",
+      "loc": "905 270TH ST",
+      "city": "DES MOINES",
+      "county": "KING",
+      "exp": "11/14/26 11:45 pm",
+      "issue": "09/30/26 11:35 pm",
+      "opens": []
+     }
+    ]
+   },
+   {
+    "date": "Sunday, November 15, 2026",
+    "tickets": [
+     {
+      "ticket": "26458850",
+      "company": "STRATEGYHOUS",
+      "loc": "26744 WOODMONT BEACH RD S",
+      "city": "DES MOINES",
+      "county": "KING",
+      "exp": "11/15/26 12:00 am",
+      "issue": "09/30/26 11:53 pm",
+      "opens": []
+     },
+     {
+      "ticket": "26458864",
+      "company": "STRATEGYHOUS",
+      "loc": "27011 8TH AVE S",
+      "city": "DES MOINES",
+      "county": "KING",
+      "exp": "11/15/26 03:30 am",
+      "issue": "10/01/26 03:22 am",
+      "opens": []
+     },
+     {
+      "ticket": "26458865",
+      "company": "STRATEGYHOUS",
+      "loc": "27025 8TH AVE S",
+      "city": "DES MOINES",
+      "county": "KING",
+      "exp": "11/15/26 03:30 am",
+      "issue": "10/01/26 03:23 am",
+      "opens": []
+     },
+     {
+      "ticket": "26458866",
+      "company": "STRATEGYHOUS",
+      "loc": "818 272ND ST",
+      "city": "DES MOINES",
+      "county": "KING",
+      "exp": "11/15/26 03:30 am",
+      "issue": "10/01/26 03:25 am",
+      "opens": []
+     },
+     {
+      "ticket": "26458867",
+      "company": "STRATEGYHOUS",
+      "loc": "27232 8TH AVE S",
+      "city": "DES MOINES",
+      "county": "KING",
+      "exp": "11/15/26 03:30 am",
+      "issue": "10/01/26 03:25 am",
+      "opens": []
+     },
+     {
+      "ticket": "26458868",
+      "company": "STRATEGYHOUS",
+      "loc": "26906 10TH AVE S",
+      "city": "DES MOINES",
+      "county": "KING",
+      "exp": "11/15/26 03:30 am",
+      "issue": "10/01/26 03:28 am",
+      "opens": []
+     },
+     {
+      "ticket": "26458869",
+      "company": "STRATEGYHOUS",
+      "loc": "818 272ND ST",
+      "city": "DES MOINES",
+      "county": "KING",
+      "exp": "11/15/26 03:30 am",
+      "issue": "10/01/26 03:29 am",
+      "opens": []
+     }
+    ]
+   }
+  ]
+ }
+}
