@@ -1,0 +1,84 @@
+{
+  "system": "Argus 3.0",
+  "run_at": "2026-11-14T02:52:20-08:00",
+  "run_url": "https://github.com/markricemho-commits/Argus-3.0/actions/runs/43586439009",
+  "overall": "OK",
+  "wa": {
+    "status": "OK",
+    "pull": "success",
+    "build": "success",
+    "check": "success",
+    "tickets": 64,
+    "companies": {
+      "G&J FIBER GROUP LLC": 29,
+      "MEDINA UNDERGROUND INC": 0,
+      "JR DRILLING SERVICES LLC": 0,
+      "STRATEGYHOUS": 33,
+      "RIGOR": 2,
+      "LV ELECTRIC AND PLUMBING": 0,
+      "LKL DIRECTIONAL DRILLING SER": 0,
+      "G-REED LLC": 0,
+      "CABLE JIMENEZ": 0,
+      "SDC UTILITIES LLC": 0,
+      "FIBERNET COMMUNICATIONS LLC": 0,
+      "UNDERGROUND UTILITY CONSTRUCTION LLC": 0,
+      "NORTHGATE INDUSTRIES": 0,
+      "NERYS UNDERGROUND": 0,
+      "JLP FIBER GROUP": 0
+    },
+    "size_mb": 37.91,
+    "problems": [],
+    "notes": [
+      "64 tickets, 3 companies, 2 city tabs, 2498 tiles",
+      "MEDINA UNDERGROUND INC: 0 tickets in the 45-day window",
+      "JR DRILLING SERVICES LLC: 0 tickets in the 45-day window",
+      "LV ELECTRIC AND PLUMBING: 0 tickets in the 45-day window",
+      "LKL DIRECTIONAL DRILLING SER: 0 tickets in the 45-day window",
+      "G-REED LLC: 0 tickets in the 45-day window",
+      "CABLE JIMENEZ: 0 tickets in the 45-day window",
+      "SDC UTILITIES LLC: 0 tickets in the 45-day window",
+      "FIBERNET COMMUNICATIONS LLC: 0 tickets in the 45-day window",
+      "UNDERGROUND UTILITY CONSTRUCTION LLC: 0 tickets in the 45-day window",
+      "NORTHGATE INDUSTRIES: 0 tickets in the 45-day window",
+      "NERYS UNDERGROUND: 0 tickets in the 45-day window",
+      "JLP FIBER GROUP: 0 tickets in the 45-day window"
+    ]
+  },
+  "tx": {
+    "status": "OK",
+    "pull": "success",
+    "build": "success",
+    "check": "success",
+    "tickets": 760,
+    "companies": {
+      "G-REED LLC": 108,
+      "LV ELECTRIC AND PLUMBING": 53,
+      "G&J FIBER GROUP": 234,
+      "CABLE JIMENEZ": 55,
+      "SDC UTILITIES LLC": 63,
+      "FIBERNET COMMUNICATIONS LLC": 68,
+      "UNDERGROUND UTILITY CONSTRUCTION LLC": 39,
+      "MEDINA UNDERGROUND INC": 23,
+      "NORTHGATE INDUSTRIES": 65,
+      "NERYS UNDERGROUND": 52,
+      "RIGOR BORING": 0,
+      "STRATEGYHOUS": 0,
+      "LKL DIRECTIONAL DRILLING": 0,
+      "JLP FIBER GROUP": 0
+    },
+    "size_mb": 25.39,
+    "problems": [],
+    "notes": [
+      "760 tickets, 1856 tiles"
+    ]
+  },
+  "problems": [],
+  "wa811": {
+    "status": "ok",
+    "detail": "64 tickets pulled, dashboard built and checked by Argus 3.0"
+  },
+  "tx811": {
+    "status": "ok",
+    "detail": "760 tickets pulled, dashboard built and checked by Argus 3.0"
+  }
+}
