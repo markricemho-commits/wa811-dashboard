@@ -1,0 +1,312 @@
+{
+ "generated": "2026-11-28T03:41-08:00",
+ "rule": "done = every span in the ticket area is Fiber Placed, Ready for QC, Complete or Existing",
+ "enabled": true,
+ "tickets": {
+  "26521742": {
+   "status": "pending",
+   "spans": {
+    "Proposed": 9,
+    "Conduit Placed": 22
+   }
+  },
+  "26521718": {
+   "status": "pending",
+   "spans": {
+    "Proposed": 10,
+    "Conduit Placed": 21
+   }
+  },
+  "26521698": {
+   "status": "pending",
+   "spans": {
+    "Proposed": 7
+   }
+  },
+  "26521685": {
+   "status": "pending",
+   "spans": {
+    "Conduit Placed": 18,
+    "Fiber Placed": 3,
+    "Proposed": 19
+   }
+  },
+  "26521755": {
+   "status": "pending",
+   "spans": {
+    "Proposed": 14,
+    "Conduit Placed": 3
+   }
+  },
+  "26521732": {
+   "status": "pending",
+   "spans": {
+    "Proposed": 6,
+    "Conduit Placed": 9
+   }
+  },
+  "26521708": {
+   "status": "pending",
+   "spans": {
+    "Conduit Placed": 15
+   }
+  },
+  "26521705": {
+   "status": "pending",
+   "spans": {
+    "Conduit Placed": 16,
+    "Proposed": 14
+   }
+  },
+  "26521690": {
+   "status": "pending",
+   "spans": {
+    "Conduit Placed": 6,
+    "Proposed": 9
+   }
+  },
+  "26511268": {
+   "status": "pending",
+   "spans": {
+    "Conduit Placed": 8,
+    "Fiber Placed": 9
+   }
+  },
+  "26495509": {
+   "status": "pending",
+   "spans": {
+    "Proposed": 9,
+    "Fiber Placed": 3,
+    "Conduit Placed": 1
+   }
+  },
+  "26495487": {
+   "status": "pending",
+   "spans": {
+    "Proposed": 18,
+    "Fiber Placed": 2
+   }
+  },
+  "26495438": {
+   "status": "pending",
+   "spans": {
+    "Conduit Placed": 3,
+    "Proposed": 18,
+    "Fiber Placed": 5
+   }
+  },
+  "26495420": {
+   "status": "pending",
+   "spans": {
+    "Proposed": 9
+   }
+  },
+  "26495415": {
+   "status": "pending",
+   "spans": {
+    "Proposed": 17
+   }
+  },
+  "26495395": {
+   "status": "pending",
+   "spans": {
+    "Proposed": 16
+   }
+  },
+  "26495223": {
+   "status": "pending",
+   "spans": {
+    "Conduit Placed": 6,
+    "Fiber Placed": 7
+   }
+  },
+  "26495211": {
+   "status": "pending",
+   "spans": {
+    "Conduit Placed": 8,
+    "Fiber Placed": 9
+   }
+  },
+  "26495190": {
+   "status": "pending",
+   "spans": {
+    "Conduit Placed": 5,
+    "Proposed": 4,
+    "Fiber Placed": 4
+   }
+  },
+  "26495177": {
+   "status": "pending",
+   "spans": {
+    "Conduit Placed": 2,
+    "Proposed": 1,
+    "Fiber Placed": 11
+   }
+  },
+  "26494724": {
+   "status": "pending",
+   "spans": {
+    "Conduit Placed": 4,
+    "Fiber Placed": 1
+   }
+  },
+  "26541576": {
+   "status": "pending",
+   "spans": {
+    "Conduit Placed": 1,
+    "Proposed": 2
+   }
+  },
+  "26541575": {
+   "status": "pending",
+   "spans": {
+    "Proposed": 9
+   }
+  },
+  "26541574": {
+   "status": "pending",
+   "spans": {
+    "Proposed": 7
+   }
+  },
+  "26541540": {
+   "status": "pending",
+   "spans": {
+    "Proposed": 8,
+    "Conduit Placed": 1
+   }
+  },
+  "26541539": {
+   "status": "pending",
+   "spans": {
+    "Proposed": 4
+   }
+  },
+  "26541538": {
+   "status": "pending",
+   "spans": {
+    "Proposed": 8
+   }
+  },
+  "26541493": {
+   "status": "pending",
+   "spans": {
+    "Proposed": 4
+   }
+  },
+  "26541492": {
+   "status": "pending",
+   "spans": {
+    "Proposed": 5
+   }
+  },
+  "26541491": {
+   "status": "pending",
+   "spans": {
+    "Proposed": 7
+   }
+  },
+  "26541443": {
+   "status": "pending",
+   "spans": {
+    "Proposed": 5
+   }
+  },
+  "26541384": {
+   "status": "pending",
+   "spans": {
+    "Proposed": 7
+   }
+  },
+  "26535730": {
+   "status": "pending",
+   "spans": {
+    "Proposed": 7
+   }
+  },
+  "26535717": {
+   "status": "pending",
+   "spans": {
+    "Proposed": 7
+   }
+  },
+  "26535682": {
+   "status": "pending",
+   "spans": {
+    "Proposed": 5
+   }
+  },
+  "26535655": {
+   "status": "pending",
+   "spans": {
+    "Proposed": 12
+   }
+  },
+  "26534367": {
+   "status": "pending",
+   "spans": {
+    "Proposed": 8
+   }
+  },
+  "26534362": {
+   "status": "pending",
+   "spans": {
+    "Proposed": 3
+   }
+  },
+  "26534342": {
+   "status": "pending",
+   "spans": {
+    "Proposed": 6
+   }
+  },
+  "26534341": {
+   "status": "pending",
+   "spans": {
+    "Proposed": 3
+   }
+  },
+  "26534331": {
+   "status": "pending",
+   "spans": {
+    "Proposed": 7
+   }
+  },
+  "26534330": {
+   "status": "pending",
+   "spans": {
+    "Proposed": 5
+   }
+  },
+  "26534266": {
+   "status": "pending",
+   "spans": {
+    "Proposed": 10
+   }
+  },
+  "26531448": {
+   "status": "pending",
+   "spans": {
+    "Conduit Placed": 5
+   }
+  },
+  "26526671": {
+   "status": "pending",
+   "spans": {
+    "Conduit Placed": 2,
+    "Proposed": 4
+   }
+  },
+  "26518214": {
+   "status": "pending",
+   "spans": {
+    "Conduit Placed": 4,
+    "Proposed": 5
+   }
+  }
+ },
+ "tally": {
+  "pending": 46
+ },
+ "hidden_from_expiring": []
+}

@@ -1,0 +1,129 @@
+{
+ "meta": {
+  "generated": "November 28, 2026",
+  "window": "November 28, 2026 – December 8, 2026",
+  "doc_date": "11-28-2026",
+  "days": 10,
+  "work_complete_hidden": 0
+ },
+ "report": {
+  "G&J FIBER GROUP LLC": [
+   {
+    "date": "Sunday, December 6, 2026",
+    "tickets": [
+     {
+      "ticket": "26494724",
+      "company": "G&J FIBER GROUP LLC",
+      "loc": "26426 CAMBRIDGE DR",
+      "city": "KENT",
+      "county": "KING",
+      "exp": "12/06/26 11:15 am",
+      "issue": "10/22/26 11:09 am",
+      "opens": []
+     },
+     {
+      "ticket": "26495177",
+      "company": "G&J FIBER GROUP LLC",
+      "loc": "26324 42ND AVE S",
+      "city": "KENT",
+      "county": "KING",
+      "exp": "12/06/26 01:30 pm",
+      "issue": "10/22/26 01:22 pm",
+      "opens": []
+     },
+     {
+      "ticket": "26495190",
+      "company": "G&J FIBER GROUP LLC",
+      "loc": "26324 42ND AVE S",
+      "city": "KENT",
+      "county": "KING",
+      "exp": "12/06/26 01:30 pm",
+      "issue": "10/22/26 01:26 pm",
+      "opens": []
+     },
+     {
+      "ticket": "26495211",
+      "company": "G&J FIBER GROUP LLC",
+      "loc": "4604 KENT CT",
+      "city": "KENT",
+      "county": "KING",
+      "exp": "12/06/26 01:45 pm",
+      "issue": "10/22/26 01:31 pm",
+      "opens": []
+     },
+     {
+      "ticket": "26495223",
+      "company": "G&J FIBER GROUP LLC",
+      "loc": "4511 SOMERSET CT",
+      "city": "KENT",
+      "county": "KING",
+      "exp": "12/06/26 01:45 pm",
+      "issue": "10/22/26 01:36 pm",
+      "opens": []
+     },
+     {
+      "ticket": "26495395",
+      "company": "G&J FIBER GROUP LLC",
+      "loc": "26838 CARDIFF AVE",
+      "city": "KENT",
+      "county": "KING",
+      "exp": "12/06/26 02:15 pm",
+      "issue": "10/22/26 02:10 pm",
+      "opens": []
+     },
+     {
+      "ticket": "26495415",
+      "company": "G&J FIBER GROUP LLC",
+      "loc": "27007 CAMBRIDGE PL",
+      "city": "KENT",
+      "county": "KING",
+      "exp": "12/06/26 02:30 pm",
+      "issue": "10/22/26 02:15 pm",
+      "opens": []
+     },
+     {
+      "ticket": "26495420",
+      "company": "G&J FIBER GROUP LLC",
+      "loc": "26857 DOWNING AVE",
+      "city": "KENT",
+      "county": "KING",
+      "exp": "12/06/26 02:30 pm",
+      "issue": "10/22/26 02:17 pm",
+      "opens": []
+     },
+     {
+      "ticket": "26495438",
+      "company": "G&J FIBER GROUP LLC",
+      "loc": "4417 HAMPTON CT",
+      "city": "KENT",
+      "county": "KING",
+      "exp": "12/06/26 02:30 pm",
+      "issue": "10/22/26 02:22 pm",
+      "opens": []
+     },
+     {
+      "ticket": "26495487",
+      "company": "G&J FIBER GROUP LLC",
+      "loc": "4007 HAMPTON WAY",
+      "city": "KENT",
+      "county": "KING",
+      "exp": "12/06/26 02:45 pm",
+      "issue": "10/22/26 02:33 pm",
+      "opens": []
+     },
+     {
+      "ticket": "26495509",
+      "company": "G&J FIBER GROUP LLC",
+      "loc": "4505 SOMERSET LN",
+      "city": "KENT",
+      "county": "KING",
+      "exp": "12/06/26 02:45 pm",
+      "issue": "10/22/26 02:38 pm",
+      "opens": []
+     }
+    ]
+   }
+  ],
+  "RIGOR BORING LLC": []
+ }
+}
